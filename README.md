@@ -4,8 +4,6 @@
 
 [https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA](https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA)
 
-All files were downloaded from [https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233](https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233) on August 24, 2023
-
 | File                                                                                                                                                    | Author Upload Time  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | [李跳跳2.2正式版.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)             | 2023-05-17 16:20:42 |
